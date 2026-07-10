@@ -9,5 +9,15 @@
 5. Toque **Nome personalizado**
 6. Na janela que abrir adicione **dns.runtech.ao**
 7. Toque em **Guardar**
+8. Aguarde uns segundo e em **Nome personalizado** deve aparecer `dns.runtech.ao`
 
-##
+## Samsung 
+
+1. Abra **Definições**
+2. Toque **Ligações**
+3. Toque **Mais definições de ligação**
+4. Toque **DNS privado**
+5. Selecione **Nome de anfitrião do fornecedor de DNS privado**
+6. Introduza **dns.runtech.ao**
+7. Toque em **Guardar**
+8. Aguarde uns segundo e em **DNS privado** deve aparecer `dns.runtech.ao`
