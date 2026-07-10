@@ -2,6 +2,8 @@
 
 Configure **dns.runtech.ao** no seu Telemóveis e Tablets android.
 
+<br>
+
 ## Xiaomi 
 
 1. Abra **Definições**
