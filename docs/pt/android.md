@@ -12,6 +12,7 @@
 8. Aguarde uns segundo e em **Nome personalizado** deve aparecer `dns.runtech.ao`
 >[!TIP]
 > O seu dispositivo passará a utilizar DNS encriptado sempre que possível.
+> Para desativar no passo 4. Selecione **Desativado**
 
 <br>
 
@@ -27,5 +28,6 @@
 8. Aguarde uns segundo e em **DNS privado** deve aparecer `dns.runtech.ao`
 >[!TIP]
 > O seu dispositivo passará a utilizar DNS encriptado sempre que possível.
+> Para desativar no passo 5. Selecione **Desativado**
 
 <br>
