@@ -1,7 +1,7 @@
 <p align="right">
 
 [![Português](https://img.shields.io/badge/🇵🇹-Português-lightgrey?style=flat-square)](README.md)
-[![English](https://img.shields.io/badge/🇬🇧-English-0057B8?style=flat-square)](README.en.md)
+[![English](https://img.shields.io/badge/🇬🇧-English-red?style=flat-square)](README.en.md)
 [![Français](https://img.shields.io/badge/🇫🇷-Français-lightgrey?style=flat-square)](README.fr.md)
 
 </p>
