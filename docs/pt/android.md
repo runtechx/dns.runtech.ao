@@ -10,7 +10,7 @@
 6. Na janela que abrir adicione **dns.runtech.ao**
 7. Toque em **Guardar**
 8. Aguarde uns segundo e em **Nome personalizado** deve aparecer `dns.runtech.ao`
-[!TIP]
+>[!TIP]
 > O seu dispositivo passará a utilizar DNS encriptado sempre que possível.
 
 ## Samsung 
@@ -23,5 +23,5 @@
 6. Introduza **dns.runtech.ao**
 7. Toque em **Guardar**
 8. Aguarde uns segundo e em **DNS privado** deve aparecer `dns.runtech.ao`
-[!TIP]
+>[!TIP]
 > O seu dispositivo passará a utilizar DNS encriptado sempre que possível.
