@@ -2,7 +2,7 @@
 
 [![Português](https://img.shields.io/badge/🇵🇹-Português-lightgrey?style=flat-square)](README.md)
 [![English](https://img.shields.io/badge/🇬🇧-English-lightgrey?style=flat-square)](README.en.md)
-[![Français](https://img.shields.io/badge/🇫🇷-Français-0055A4?style=flat-square)](README.fr.md)
+[![Français](https://img.shields.io/badge/🇫🇷-Français-009739?style=flat-square)](README.fr.md)
 
 </p>
 
