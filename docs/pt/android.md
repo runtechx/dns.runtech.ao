@@ -13,6 +13,8 @@
 >[!TIP]
 > O seu dispositivo passará a utilizar DNS encriptado sempre que possível.
 
+<br>
+
 ## Samsung 
 
 1. Abra **Definições**
@@ -25,3 +27,5 @@
 8. Aguarde uns segundo e em **DNS privado** deve aparecer `dns.runtech.ao`
 >[!TIP]
 > O seu dispositivo passará a utilizar DNS encriptado sempre que possível.
+
+<br>
