@@ -1,103 +1,113 @@
+<p align="right">
+
+[![Português](https://img.shields.io/badge/🇵🇹-Português-009739?style=flat-square)](README.md)
+[![English](https://img.shields.io/badge/🇬🇧-English-lightgrey?style=flat-square)](README.en.md)
+[![Français](https://img.shields.io/badge/🇫🇷-Français-lightgrey?style=flat-square)](README.fr.md)
+
+</p>
+
 # dns.runtech.ao
 
-The official repository for **dns.runtech.ao**, the public DNS service operated by **RunTech**.
+O repositório oficial do **dns.runtech.ao**, o serviço público de DNS operado pela **RunTech**.
 
-This repository contains user configuration guides, curated domain and IP blocklists, and documentation used to operate a fast, privacy-focused DNS resolver with built-in protection against advertisements, trackers, malware, phishing, and other unwanted domains.
-
-
-## Features
-
-- Public DNS resolver
-- Fast and reliable name resolution
-- Privacy-focused (no user profiling)
-- Protection against malware and phishing domains
-- ad and tracker blocking
-- Step-by-step configuration guides
-- Open and transparent blocklists
+Este repositório contém guias de configuração passo a passo, listas de bloqueio de domínios e endereços IP, bem como documentação utilizada para operar um resolvedor DNS rápido, focado na privacidade e com proteção integrada contra publicidade, rastreadores, malware, phishing e outros domínios indesejados.
 
 
-## Repository Structure
+## Funcionalidades
 
-```
+- Resolvedor DNS público
+- Resolução de nomes rápida e fiável
+- Foco na privacidade (sem criação de perfis de utilizadores)
+- Proteção contra malware e phishing
+- Bloqueio de publicidade e rastreadores
+- Guias de configuração passo a passo
+- Blocklists abertas e transparentes
+
+
+## Estrutura do Repositório
+
+```text
 dns.runtech.ao/
-├── docs/           # User guides and configuration instructions
-├── blocklists/     # Domain and IP blocklists
-├── assets/         # Images and documentation assets
+├── docs/           # Guias e documentação
+├── blocklists/     # Blocklists de domínios e IPs
+├── assets/         # Recursos gráficos
 └── README.md
 ```
 
-## Configuration Guides
 
-The `docs` directory contains setup instructions for:
+## Guias de Configuração
+
+A pasta `docs` contém instruções para:
 
 - Windows
 - macOS
 - Linux
 - Android
-- iPhone & iPad (iOS/iPadOS)
+- iPhone e iPad (iOS/iPadOS)
 - Routers
-- Servers
+- Servidores
 
-Configuration methods include:
+Métodos suportados:
 
-- Manual DNS configuration
+- Configuração manual
 - DNS-over-TLS (DoT)
-- Apple Configuration Profiles (.mobileconfig)
+- Perfis Apple (.mobileconfig)
+
 
 
 ## Blocklists
 
-Our blocklists are curated to enhance security, privacy, and the overall browsing experience.
+As nossas blocklists são cuidadosamente mantidas para melhorar a segurança, a privacidade e a experiência de navegação.
 
-The blocklists include domains and IP addresses associated with:
+Incluem domínios e endereços IP associados a:
 
-Advertising
-Analytics
-Trackers
-Malware
-Phishing
-Cryptomining
-Scam domains
-Fake software updates
-Command-and-Control (C2) infrastructure
-Other unwanted or harmful content
+- Publicidade
+- Analytics
+- Rastreadores
+- Malware
+- Phishing
+- Cryptomining
+- Domínios fraudulentos
+- Falsas atualizações de software
+- Infraestruturas Command-and-Control (C2)
+- Outros conteúdos maliciosos ou indesejados
 
-The lists are continuously reviewed, updated, and refined to ensure effective protection while minimizing false positives.
-
-
-## Philosophy
-
-Our goal is to provide a public DNS resolver that is:
-
-- Fast
-- Reliable
-- Privacy respecting
-- Transparent
-- Easy to configure
-- Suitable for both home and business environments
+As listas são continuamente revistas e atualizadas para garantir uma proteção eficaz com o menor número possível de falsos positivos.
 
 
-## Contributing
+## Filosofia
 
-Contributions are welcome.
+O nosso objetivo é disponibilizar um serviço DNS público que seja:
 
-You can help by:
-
-- Reporting false positives
-- Reporting malicious domains
-- Improving documentation
-- Suggesting new features
-- Opening Pull Requests
+- Rápido
+- Fiável
+- Respeitador da privacidade
+- Transparente
+- Fácil de configurar
+- Adequado para utilização doméstica e empresarial
 
 
 
-## License
+## Contribuir
 
-This repository is released under the MIT License unless otherwise stated.
+Contribuições são bem-vindas.
+
+Pode ajudar através de:
+
+- Reportar falsos positivos
+- Reportar domínios maliciosos
+- Melhorar a documentação
+- Sugerir novas funcionalidades
+- Submeter Pull Requests
+
+
+## Licença
+
+Este repositório é disponibilizado sob a licença MIT, salvo indicação em contrário.
 
 
 ## RunTech
 
-**RunTech creates innovative products and services that enrich the lives of individuals and organizations.**
+**A RunTech cria produtos e serviços inovadores que enriquecem a vida das pessoas e das organizações.**
 
-Learn more at **https://runtech.ao**.
+Saiba mais em **https://runtech.ao**
