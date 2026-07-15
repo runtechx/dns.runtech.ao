@@ -101,14 +101,11 @@ You can help by:
 This repository is released under the MIT License unless otherwise stated.
 
 
-## RunTech
-
-**RunTech creates innovative products and services that enrich the lives of individuals and organizations.**
 
 Learn more at **https://runtech.ao**
 
 <div align="right">
-  
+
 [github.com/runtechx](https://github.com/runtechx)
 
 </div>
