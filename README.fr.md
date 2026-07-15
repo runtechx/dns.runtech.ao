@@ -111,7 +111,8 @@ En savoir plus : **https://runtech.ao**
 
 
 <div align="right">
-  
+
+***Runtech - Solutions that improve lives.***
 [github.com/runtechx](https://github.com/runtechx)
 
 </div>
