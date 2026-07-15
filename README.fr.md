@@ -108,3 +108,10 @@ Ce dépôt est distribué sous licence MIT, sauf indication contraire.
 **RunTech crée des produits et des services innovants qui enrichissent la vie des particuliers et des organisations.**
 
 En savoir plus : **https://runtech.ao**
+
+
+<div align="right">
+  
+[github.com/runtechx](https://github.com/runtechx)
+
+</div>
