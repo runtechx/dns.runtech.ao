@@ -106,9 +106,7 @@ Pode ajudar através de:
 Este repositório é disponibilizado sob a licença MIT, salvo indicação em contrário.
 
 
-## RunTech
-
-**A RunTech cria produtos e serviços que simplificam o dia a dia de pessoas e organizações.**
+***Runtech - Soluções que melhoram vidas.***
 
 Saiba mais em **https://runtech.ao**
 
