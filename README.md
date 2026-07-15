@@ -108,7 +108,7 @@ Este repositório é disponibilizado sob a licença MIT, salvo indicação em co
 
 ## RunTech
 
-**A RunTech cria produtos e serviços produtos e serviços que simplificam o dia a dia de pessoas e organizações.**
+**A RunTech cria produtos e serviços que simplificam o dia a dia de pessoas e organizações.**
 
 Saiba mais em **https://runtech.ao**
 
