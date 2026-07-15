@@ -111,3 +111,10 @@ Este repositório é disponibilizado sob a licença MIT, salvo indicação em co
 **A RunTech cria produtos e serviços produtos e serviços que simplificam o dia a dia de pessoas e organizações.**
 
 Saiba mais em **https://runtech.ao**
+
+
+<div align="right">
+  
+[github.com/runtechx](https://github.com/runtechx)
+
+</div>
