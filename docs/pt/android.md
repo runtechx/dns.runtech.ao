@@ -4,6 +4,19 @@ Configure **dns.runtech.ao** no seu Telemóveis e Tablets android.
 
 <br>
 
+## Tecno
+1. Abra **Definições**
+2. Toque **Ponto de acesso & conexões**
+3. Toque **DNS privado**
+4. Selecione **Nome de afintrião do fornecedor DNS privado**
+5. Na janela que abrir adicione **dns.runtech.ao
+6. Toque em **Guardar**
+7. Aguarde uns segundo e em **Nome personalizado** deve aparecer `dns.runtech.ao`
+>[!TIP]
+> O seu dispositivo passará a utilizar DNS encriptado sempre que possível.
+>
+> Para desativar no passo 4. Selecione **Desativado**
+
 ## Xiaomi 
 
 1. Abra **Definições**
