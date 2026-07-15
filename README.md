@@ -110,7 +110,6 @@ Este repositório é disponibilizado sob a licença MIT, salvo indicação em co
 
 <div align="right">
   
-***Runtech - Soluções que melhoram vidas.***  
 [github.com/runtechx](https://github.com/runtechx)
 
 </div>
