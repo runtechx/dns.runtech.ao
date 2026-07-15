@@ -54,4 +54,8 @@ Configure **dns.runtech.ao** no seu Telemóveis e Tablets android.
 <br>
 
 
+<div align="right">
+  
+[github.com/runtechx](https://github.com/runtechx)
 
+</div>
