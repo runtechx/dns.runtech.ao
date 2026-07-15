@@ -15,6 +15,9 @@ Configure **dns.runtech.ao** no seu Telemóveis e Tablets android.
 7. Toque em **Guardar**
 8. Aguarde uns segundo e em **DNS privado** deve aparecer `dns.runtech.ao`
 >[!TIP]
+> O seu dispositivo passará a utilizar DNS encriptado sempre que possível.
+>
+> Para desativar no passo 4. Selecione **Desativado**
 
 <br>
 
@@ -52,11 +55,3 @@ Configure **dns.runtech.ao** no seu Telemóveis e Tablets android.
 
 
 
-
-
-
-> O seu dispositivo passará a utilizar DNS encriptado sempre que possível.
->
-> Para desativar no passo 5. Selecione **Desativado**
-
-<br>
