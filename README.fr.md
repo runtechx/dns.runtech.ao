@@ -27,10 +27,10 @@ Ce dépôt contient des guides de configuration étape par étape, des listes de
 
 ```text
 dns.runtech.ao/
-├── docs/
-├── blocklists/
-├── assets/
-└── README.md
+├── docs/           # Guides et documentation
+├── blocklists/     # Listes de blocage des domaines et adresses IP
+├── assets/         # Ressources supplémentaires
+└── README.md, README.en.md, README.fr.md
 ```
 
 
