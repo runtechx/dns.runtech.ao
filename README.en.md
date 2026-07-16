@@ -27,10 +27,10 @@ This repository contains step-by-step configuration guides, curated domain and I
 
 ```text
 dns.runtech.ao/
-├── docs/
-├── blocklists/
-├── assets/
-└── README.md
+├── docs/           # Guides and documentation
+├── blocklists/     # Domain and IP blocklists
+├── assets/         # Additional resources
+└── README.md, README.en.md, README.fr.md
 ```
 
 ## Configuration Guides
