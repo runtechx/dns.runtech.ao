@@ -28,10 +28,10 @@ Este repositório contém guias de configuração passo a passo, listas de bloqu
 
 ```text
 dns.runtech.ao/
-├── docs/           # Guias e documentação
-├── blocklists/     # Blocklists de domínios e IPs
-├── assets/         # Recursos Extras
-└── README.md
+├── docs/ # Guias e documentação
+├── blocklists/ # Blocklists de domínios e IPs
+├── assets/ # Recursos Extras
+└── README.md , README.en.md , README.fr.md
 ```
 
 
